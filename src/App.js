@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
-import NavCom from "./components/NavCom";
+import Game from "./components/Game";
 
 function App() {
   return (
     <div className="App">
+      <Game />
     </div>
   );
 }
