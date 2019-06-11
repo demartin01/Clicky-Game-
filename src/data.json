@@ -1,62 +1,62 @@
 [
     {
       "id": 1,
-      "image": "/assets/images/Nashville.jpg",
+      "image": "/assets/images/img1.jpg",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "/assets/images/Aquaman2.png",
+      "image": "/assets/images/img2.jpg",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "/assets/images/Batman.png",
+      "image": "/assets/images/img3.jpg",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "/assets/images/Black Panter.png",
+      "image": "/assets/images/img4.jpg",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "/assets/images/Black Panter2.png",
+      "image": "/assets/images/img5.jpg",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "/assets/images/Deadpool.png",
+      "image": "/assets/images/img12.jpg",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "/assets/images/Green Lantern.png",
+      "image": "/assets/images/img6.jpg",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "/assets/images/Hulk.png",
+      "image": "/assets/images/img7.jpg",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "/assets/images/Iron Man.png",
+      "image": "/assets/images/img8.jpg",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "/assets/images/Joker.png",
+      "image": "/assets/images/img9.jpg",
       "clicked": false
     },
     {
       "id": 11,
-      "image": "/assets/images/Spiderman.png",
+      "image": "/assets/images/img10.jpg",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "/assets/images/Wonder Woman.png",
+      "image": "/assets/images/img11.jpg",
       "clicked": false
     }
   ]

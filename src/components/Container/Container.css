@@ -1,0 +1,8 @@
+.container {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 25vh 25vh 25vh;
+    grid-gap: 10px;
+    overflow: hidden;
+    margin-top: 10px;
+}

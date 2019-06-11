@@ -1,9 +1,9 @@
 import React from "react";
-import "./CardCom";
+import "./CardCom.css";
 
 const CardCom = props => (
     <div className="card" id={props.id}>
-        <img src={props.image} />
+        <img className="cardImg" src={props.image} />
     </div>
 )
 

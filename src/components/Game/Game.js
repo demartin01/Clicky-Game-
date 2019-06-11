@@ -3,6 +3,7 @@ import "./Game.css";
 import NavCom from "../NavCom";
 import data from "../../data.json";
 import CardCom from "../CardCom";
+import Container from "../Container";
 
 class Game extends Component {
 
@@ -17,7 +18,11 @@ class Game extends Component {
             <div>
                 <NavCom score={this.state.score} topScore={this.state.topScore} />
 
-                <CardCom id={data[0].id} image={data[0].image} />
+                <Container>
+                        {data.map( landmark => (
+                                <CardCom id={landmark.id} image={landmark.image} />
+                        ))}
+                </Container>
 
             </div>
         )
